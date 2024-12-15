@@ -1,8 +1,8 @@
-# A.C.E - Accident Crash Emergency System 🚨
+# G.U.A.R.D - Global Accident Detection System 🚨
 
 ## Overview
 
-**A.C.E (Accident Crash Emergency System)** is an innovative, IoT-powered solution designed to detect road accidents in real-time using advanced technologies such as Machine Learning (ML), Convolutional Neural Networks (CNN), and YOLO (You Only Look Once) object detection. The system automatically alerts emergency services when an accident occurs, providing exact location data to ensure faster response times and potentially saving lives.
+**G.U.A.R.D (Global Accident Detection System)** is an innovative, IoT-powered solution designed to detect road accidents in real-time using advanced technologies such as Machine Learning (ML), Convolutional Neural Networks (CNN), and YOLO (You Only Look Once) object detection. The system automatically alerts emergency services when an accident occurs, providing exact location data to ensure faster response times and potentially saving lives.
 
 ## Key Features
 
