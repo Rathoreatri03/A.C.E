@@ -31,7 +31,7 @@
 
 ## Installation
 
-To get started with **A.C.E - Accident Crash Emergency System**:
+To get started with **G.U.A.R.D - Global Accident Detection System**:
 
 1. **Clone the Repository**:
    ```bash
@@ -77,7 +77,7 @@ Once the application is up and running:
 
 ## Contributing
 
-We welcome contributions to make **A.C.E - Accident Crash Emergency System** even better!
+We welcome contributions to make **G.U.A.R.D - Global Accident Detection System** even better!
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
